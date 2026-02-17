@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://decaturplumbingco.com/sitemap.xml
